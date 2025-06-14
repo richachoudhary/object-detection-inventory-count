@@ -1,4 +1,4 @@
-# iOS Object Detection App
+# iOS Object Detection App for Inventory count
 
 A real-time object detection application for iOS devices that utilizes computer vision to identify and classify objects through the device's camera.
 
@@ -9,6 +9,7 @@ A real-time object detection application for iOS devices that utilizes computer 
 - Visual bounding boxes around detected objects
 - Object classification with confidence scores
 - Optimized for iOS devices
+
 
 ## Requirements
 
